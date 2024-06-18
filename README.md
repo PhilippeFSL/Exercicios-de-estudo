@@ -1,2 +1,3 @@
-# teste-2
-teste 2
+# Exercicios de estudo
+
+Exercicios que foram feitos no periodo de aprendizagem
